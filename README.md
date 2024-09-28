@@ -1,6 +1,8 @@
 # cocoa_beans_interfaces
 [![demo-online](https://img.shields.io/badge/demo-online-success?style=flat-square)]([https://tu-demo-url.com](https://huggingface.co/spaces/kebincontreras/Fermentation_Level_Classification_for_Cocoa_Beans))
 
+[![demo-online](https://img.shields.io/badge/demo-online-success?style=flat-square)]([https://tu-demo-url.com](https://huggingface.co/spaces/kebincontreras/Object_Detection_Modulo_Camera))
+
 
 Requisitos previos
 Python 3.8 o superior.
